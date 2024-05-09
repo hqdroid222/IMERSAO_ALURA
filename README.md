@@ -1,5 +1,5 @@
 # IMERSAO_ALURA
-Teste da Live ALURA
+Teste da Live ALURA - https://www.youtube.com/watch?v=j_0HRH7gZtA
 Código gerado pelo Gemini através do código abaixo:
 ------------------------------------------------------------------------------------------
 import requestsimport random
