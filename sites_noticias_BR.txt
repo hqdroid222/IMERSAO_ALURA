@@ -1,0 +1,17 @@
+noticias_br = [
+    "https://g1.globo.com/",
+    "https://www.uol.com.br/",
+    "https://noticias.r7.com/",
+    "https://www.terra.com.br/noticias/",
+    "https://www.estadao.com.br/",
+    "https://www1.folha.uol.com.br/",
+    "https://www.correiobraziliense.com.br/",
+    "https://www.metropoles.com/",
+    "https://odia.ig.com.br/",
+    "https://www.poder360.com.br/",
+    "https://www.gazetadopovo.com.br/",
+    "https://www.valor.com.br/",
+    "https://www.jornaldocomercio.com/",
+    "https://www.nsctotal.com.br/noticias", 
+    "https://www.band.uol.com.br/noticias"
+]

@@ -1,0 +1,9 @@
+sites_checagem = [
+    "https://aosfatos.org/",
+    "https://www.boatos.org/",
+    "https://piaui.folha.uol.com.br/lupa/",
+    "https://apublica.org/checagem/",
+    "https://www.e-farsas.com/" 
+]
+
+print(sites_checagem)
